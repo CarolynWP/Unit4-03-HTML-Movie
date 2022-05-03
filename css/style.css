@@ -1,0 +1,68 @@
+body {
+height: 100vh;
+	background: linear-gradient(
+		to bottom left,
+		#0c0a38 0%,
+		#0c0a38 10%,
+		#e2ff49 10%,
+		#e2ff49 12%,
+		#0c0a38 12%,
+		#0c0a38 20%,
+		#ff3434 20%,
+		#ff3434 22%,
+		#0c0a38 22%,
+		#0c0a38 30%,
+		#22ff47 30%,
+		#22ff47 32%,
+		#0c0a38 32%,
+		#0c0a38 40%,
+		#1535d4 40%,
+		#1535d4 42%,
+		#0c0a38 42%,
+		#0c0a38 50%,
+		#e2ff49 50%,
+		#e2ff49 52%,
+		#0c0a38 52%,
+		#0c0a38 60%,
+		#ff3434 60%,
+		#ff3434 62%,
+		#0c0a38 62%,
+		#0c0a38 70%,
+		#22ff47 70%,
+		#22ff47 72%,
+		#0c0a38 72%,
+		#0c0a38 80%,
+		#1535d4 80%,
+		#1535d4 82%,
+		#0c0a38 82%,
+		#0c0a38 90%,
+		#e2ff49 90%,
+		#e2ff49 92%,
+		#0c0a38 92%,
+		#0c0a38 100%
+	);
+}
+
+.margin {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.zoom {
+	zoom: 1.2;
+	color:  #FFFBFC;
+}
+
+h1 {
+	background-color: white;
+	color: black;
+}
+
+h3{
+	background-color: white;
+	color: black;
+}
+
+p {
+	color: white;
+}
