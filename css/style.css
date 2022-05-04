@@ -48,21 +48,11 @@ height: 100vh;
 	margin-right: 20px;
 }
 
+.colour {
+	background-color: #f2ebff;
+	color: black;
+}
+
 .zoom {
 	zoom: 1.2;
-	color:  #FFFBFC;
-}
-
-h1 {
-	background-color: white;
-	color: black;
-}
-
-h3{
-	background-color: white;
-	color: black;
-}
-
-p {
-	color: white;
 }
